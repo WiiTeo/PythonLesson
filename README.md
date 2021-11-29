@@ -26,3 +26,12 @@ Créer un fichier python, et marque :
 ```py
 print("Bonjour")
 ```
+
+Analysons un peu :
+
+- Il y a la fonction `print()`
+- Il y a un text entre des guillmets (deso l'ortographe)
+
+Pourquoi le text est avec des guillmets ?
+
+Parce que sans guillmets Python va marqué le une variable et non un text. (on verra plus tard)
