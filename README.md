@@ -17,3 +17,12 @@ On va partir sur des choses simple.
 
 On va afficher un text a l'ecran : 
  
+Pour cela on utilise `print()`
+
+`print()` est une fonction de base de Python qui sert a afficher du Texte a l'ecran (en console)
+
+Créer un fichier python, et marque : 
+
+```py
+print("Bonjour")
+```
