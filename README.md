@@ -13,6 +13,8 @@ Maintenant on peut passer au CODAGE
 
 ### Partie 2 : Codage
 
+#### Chapitre 1 : Let's go les gars !
+
 On va partir sur des choses simple.
 
 On va afficher un text a l'ecran : 
@@ -34,4 +36,14 @@ Analysons un peu :
 
 Pourquoi le text est avec des guillmets ?
 
-Parce que sans guillmets Python va marqué le une variable et non un text. (on verra plus tard)
+- Parce que sans guillmets Python va marqué le une variable et non un text. (on verra plus tard ce qu'est une variable)
+
+Maintenant, admettons que l'on veulent marqué un GRAND TEXT (genre sur plusieurs ligne) on va pas faire sa :
+
+```py
+print("Hello
+Moi c'est teo
+")
+```
+
+Sa c'est totalement faux ! 
