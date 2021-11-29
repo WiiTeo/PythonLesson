@@ -47,3 +47,25 @@ Moi c'est teo
 ```
 
 Sa c'est totalement faux ! 
+On va plus tot faire sa :
+
+```py
+print("""Yo les potes
+je suis teo
+ca va alexis ?
+""")
+```
+
+La c'est juste car on a mis 3 guillmets au debut et a la fin.
+
+Engros :
+- Pour ecrire un text sur une ligne on utilise : 1 Guillmets au debut et 1 Guillmets a la fin
+- Parcontre, pour ecrire UN GROS TEXT on mets 3 Guillmets (a oui une guillmets c'est sa : ") au debut et a la fin.
+
+#### RESUME CHAPITRE 1 :
+
+- Pour ecrire du text en Python il faut utiliser la fonction : `print()`
+- Pour ecrire un text sur une ligne on utilise : 1 Guillmets au debut et 1 Guillmets a la fin
+- Parcontre, pour ecrire UN GROS TEXT on mets 3 Guillmets au debut et a la fin.
+
+Une fois que tu a bien compris sa on passe au Chapitre 2.
